@@ -1,0 +1,17 @@
+.article{
+    border: 10px solid black;
+    background-color: lightpink;
+    margin: 40px;
+    width: 500px;
+    box-shadow: 5px 50px 0px grey ;
+}
+
+
+.header{
+    height: 1500px;
+    background-color: bisque;
+    background-image: url('icon.png');
+    background-repeat:no-repeat;
+    /* background-size: cover; */
+    background-position: center;
+}
